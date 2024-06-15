@@ -8,4 +8,5 @@ include(Move\ semantics/CMakeLists.txt)
 include(Brace\ initialization/CMakeLists.txt)
 include(Auto\ keyword/CMakeLists.txt)
 include(Lambda\ expressions/CMakeLists.txt)
+include(Smart\ pointers/CMakeLists.txt)
 
