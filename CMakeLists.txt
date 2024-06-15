@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 include(Move\ semantics/CMakeLists.txt)
+include(Brace\ initialization/CMakeLists.txt)
 
