@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 include(Move\ semantics/CMakeLists.txt)
 include(Brace\ initialization/CMakeLists.txt)
-
+include(Auto\ keyword/CMakeLists.txt)
