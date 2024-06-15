@@ -1,0 +1,65 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "cmake",
+            "label": "Build Move Semantics",
+            "command": "build",
+            "targets": [
+                "move-semantics-examples"
+            ],
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "type": "cmake",
+            "label": "Build Brace Initialization",
+            "command": "build",
+            "targets": [
+                "brace-initialization-examples"
+            ],
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "type": "cmake",
+            "label": "Build Auto Keyword",
+            "command": "build",
+            "targets": [
+                "auto-keyword-examples"
+            ],
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "type": "cmake",
+            "label": "Build Lambda Expressions",
+            "command": "build",
+            "targets": [
+                "lambda-expressions-examples"
+            ],
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "type": "cmake",
+            "label": "Build Smart Pointers",
+            "command": "build",
+            "targets": [
+                "smart-pointers-examples"
+            ],
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "type": "cmake",
+            "label": "Build Variadic Templates",
+            "command": "build",
+            "targets": [
+                "variadic-templates-examples"
+            ],
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}

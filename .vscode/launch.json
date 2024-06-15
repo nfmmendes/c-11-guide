@@ -1,0 +1,468 @@
+{
+    "configurations": [
+
+        {
+            "name": "Move semantics (Example 1)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Move Semantics",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Move semantics/build/./MoveSemantics_example1",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Move semantics (Example 2)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Move Semantics",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Move semantics/build/./MoveSemantics_example2",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Move semantics (Example 3)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Move Semantics",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Move semantics/build/./MoveSemantics_example3",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Move semantics (Example 4)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Move Semantics",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Move semantics/build/./MoveSemantics_example4",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Move semantics (Example 5)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Move Semantics",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Move semantics/build/./MoveSemantics_example5",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Move semantics (Example 6)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Move Semantics",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Move semantics/build/./MoveSemantics_example6",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Brace initialization (Example 1)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Brace Initialization",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Brace initialization/build/./BraceInitialization_example1",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Brace initialization (Example 2)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Brace Initialization",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Brace initialization/build/./BraceInitialization_example2",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Brace initialization (Example 3)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Brace Initialization",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Brace initialization/build/./BraceInitialization_example3",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Brace initialization (Example 4)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Brace Initialization",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Brace initialization/build/./BraceInitialization_example4",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Auto keyword (Example 1)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Auto Keyword",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Auto keyword/build/./AutoKeyword_example1",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Auto keyword (Example 2)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Auto Keyword",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Auto keyword/build/./AutoKeyword_example2",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Auto keyword (Example 3)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Auto Keyword",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Auto keyword/build/./AutoKeyword_example3",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Auto keyword (Example 4)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Auto Keyword",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Auto keyword/build/./AutoKeyword_example4",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Auto keyword (Example 5)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Auto Keyword",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Auto keyword/build/./AutoKeyword_example5",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Auto keyword (Example 6)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Auto Keyword",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Auto keyword/build/./AutoKeyword_example6",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+
+            "name": "Lambda expressions (Example 1)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Lambda Expressions",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Lambda expressions/build/./LambdaExpressions_example1",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Lambda expressions (Example 2)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Lambda Expressions",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Lambda expressions/build/./LambdaExpressions_example2",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Lambda expressions (Example 3)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Lambda Expressions",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Lambda expressions/build/./LambdaExpressions_example3",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Lambda expressions (Example 4)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Lambda Expressions",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Lambda expressions/build/./LambdaExpressions_example4",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Lambda expressions (Example 5)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Lambda Expressions",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Lambda expressions/build/./LambdaExpressions_example5",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Smart pointers (Example 1)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Smart Pointers",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Smart pointers/build/./SmartPointers_example1",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Smart pointers (Example 2)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Smart Pointers",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Smart pointers/build/./SmartPointers_example2",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Smart pointers (Example 3)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Smart Pointers",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Smart pointers/build/./SmartPointers_example3",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Smart pointers (Example 4)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Smart Pointers",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Smart pointers/build/./SmartPointers_example4",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Smart pointers (Example 5)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Smart Pointers",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Smart pointers/build/./SmartPointers_example5",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Smart pointers (Example 6)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Smart Pointers",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Smart pointers/build/./SmartPointers_example6",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Smart pointers (Example 7)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Smart Pointers",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Smart pointers/build/./SmartPointers_example7",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Smart pointers (Example 8)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Smart Pointers",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Smart pointers/build/./SmartPointers_example8",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        }
+        ,{
+            "name": "Variadic templates (Example 1)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Variadic Templates",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Variadic templates/build/./VariadicTemplates_example1",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Variadic templates (Example 2)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Variadic Templates",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Variadic templates/build/./VariadicTemplates_example2",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Variadic templates (Example 3)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Variadic Templates",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Variadic templates/build/./VariadicTemplates_example3",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        },
+        {
+            "name": "Variadic templates (Example 4)",
+            "type": "cppdbg",
+            "args": [],
+            "preLaunchTask": "Build Variadic Templates",
+            "stopAtEntry": false,
+            "request": "launch",
+            "program": "${workspaceFolder}/Variadic templates/build/./VariadicTemplates_example4",
+            "console": "internalConsole",
+            "logging": {
+                "moduleLoad": false
+            },
+            "cwd": "${workspaceFolder}",
+        }
+    ]
+}
